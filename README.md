@@ -27,7 +27,6 @@ This lab focuses on implementing various edge and interest point detection techn
    - Visualize the detected points using a provided Python function.
    - Experiment with multi-scale interest point detection and compare the results.
 
-For more details, see [cv24_lab1.pdf](./cv24_lab1.pdf).
 
 ## Lab 2: Optical Flow and Image Stitching
 
@@ -42,8 +41,6 @@ This lab covers optical flow estimation for tracking moving objects in video seq
 2. **Image Stitching:**
    - Stitch multiple images together using feature matching and homography estimation to create a seamless panoramic image.
    - Implement RANSAC to improve the robustness of the stitching process.
-
-For more details, see [cv24_lab2.pdf](./cv24_lab2.pdf).
 
 ## Features
 
