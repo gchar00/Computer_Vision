@@ -54,4 +54,4 @@ For more details, see [cv24_lab2.pdf](./cv24_lab2.pdf).
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
