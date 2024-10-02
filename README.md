@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains two laboratory exercises from the **Computer Vision** course at the National Technical University of Athens (2023-2024). 
+This repository contains two laboratory exercises from the **Computer Vision** course. 
 The labs explore key concepts such as edge detection, interest point detection, optical flow, and image stitching using Python.
 
 
